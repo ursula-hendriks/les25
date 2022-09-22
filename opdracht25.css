@@ -1,0 +1,13 @@
+img{
+float: right;
+margin-right: 5px;
+}
+body{
+background-color: white;
+color: black;
+}
+footer{
+background-color: dodgerblue;
+color: black;
+padding: 5px
+}
